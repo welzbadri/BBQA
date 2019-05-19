@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression Suite">
+	<parameter name="browser" value="chrome" />
+    <parameter name="url" value="http://computer-database.herokuapp.com/computers" />
+	
+	<test name="Smoke Test" preserve-order="true">
+		<classes>
+			<class name="com.bb.tests.ComputersTests" />									
+		</classes>
+	</test>
+</suite> 

@@ -1,0 +1,25 @@
+[main] INFO  com.bb.tests.Dummy  - Inside Test Class Info
+[main] DEBUG com.bb.tests.Dummy  - Inside Test Class debug
+[main] INFO  com.bb.tests.ComputersTests  - 
+[main] INFO  com.bb.pages.HomeComputerGridPage  - Add new computer clicked.
+[main] INFO  com.bb.pages.AddComputerPage  - Value Dell XPS 13 Entered successfully
+[main] INFO  com.bb.pages.AddComputerPage  - Value 2019-05-01 Entered successfully
+[main] INFO  com.bb.pages.AddComputerPage  - Value 2019-07-10 Entered successfully
+[main] INFO  com.bb.pages.AddComputerPage  - Value Micro Instrumentation and Telemetry Systems is Selected
+[main] INFO  com.bb.pages.AddComputerPage  - Dell XPS 13 has been created ..
+[main] INFO  com.bb.pages.HomeComputerGridPage  - confirmation message of CRUD operations
+[main] INFO  com.bb.pages.EditComputerPage  - Value Dell Latitude 6666 Entered successfully
+[main] INFO  com.bb.pages.EditComputerPage  - Value 2019-05-02 Entered successfully
+[main] INFO  com.bb.pages.EditComputerPage  - Value 2019-07-11 Entered successfully
+[main] INFO  com.bb.pages.EditComputerPage  - Value Lincoln Laboratory is Selected
+[main] INFO  com.bb.pages.EditComputerPage  - Dell Latitude 6666 has been updated ..
+[main] INFO  com.bb.pages.HomeComputerGridPage  - confirmation message of CRUD operations
+[main] INFO  com.bb.pages.HomeComputerGridPage  - confirmation message of CRUD operations
+[main] INFO  com.bb.tests.ComputersTests  - checkCreateNewComputerWithValidDataTest Test Started
+[main] INFO  com.bb.pages.HomeComputerGridPage  - Add new computer clicked.
+[main] INFO  com.bb.pages.AddComputerPage  - Value Dell XPS 13 is Entered.
+[main] INFO  com.bb.pages.AddComputerPage  - Value 2019-05-01 is Entered.
+[main] INFO  com.bb.pages.AddComputerPage  - Value 2019-07-10 is Entered.
+[main] INFO  com.bb.pages.AddComputerPage  - Value Micro Instrumentation and Telemetry Systems is Selected
+[main] INFO  com.bb.pages.AddComputerPage  - Dell XPS 13 has been created ..
+[main] INFO  com.bb.pages.HomeComputerGridPage  - confirmation message of CRUD operations

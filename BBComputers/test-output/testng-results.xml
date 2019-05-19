@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11463" started-at="2019-05-19T23:13:43Z" finished-at="2019-05-19T23:13:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11463" started-at="2019-05-19T23:13:43Z" finished-at="2019-05-19T23:13:55Z">
+      <class name="com.bb.tests.ComputersTests">
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:com.bb.tests.ComputersTests@71bbf57e]" name="startDriver" is-config="true" duration-ms="6997" started-at="2019-05-19T23:13:43Z" finished-at="2019-05-19T23:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="BranchesTestSetup()[pri:0, instance:com.bb.tests.ComputersTests@71bbf57e]" name="BranchesTestSetup" is-config="true" duration-ms="46" started-at="2019-05-19T23:13:50Z" finished-at="2019-05-19T23:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BranchesTestSetup -->
+        <test-method status="PASS" signature="checkCreateNewComputerWithValidDataTest()[pri:1, instance:com.bb.tests.ComputersTests@71bbf57e]" name="checkCreateNewComputerWithValidDataTest" duration-ms="3771" started-at="2019-05-19T23:13:50Z" finished-at="2019-05-19T23:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCreateNewComputerWithValidDataTest -->
+        <test-method status="PASS" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:com.bb.tests.ComputersTests@71bbf57e]" name="screenshotOnFailure" is-config="true" duration-ms="3" started-at="2019-05-19T23:13:54Z" finished-at="2019-05-19T23:13:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkCreateNewComputerWithValidDataTest status=SUCCESS method=ComputersTests.checkCreateNewComputerWithValidDataTest()[pri:1, instance:com.bb.tests.ComputersTests@71bbf57e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:com.bb.tests.ComputersTests@71bbf57e]" name="stopDriver" is-config="true" duration-ms="614" started-at="2019-05-19T23:13:54Z" finished-at="2019-05-19T23:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- com.bb.tests.ComputersTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
