@@ -23,10 +23,12 @@ Project Name : BBComputers
 -  com.bb.model
 -  com.bb.pages
 -  com.bb.utilities
+
 --src/test/java
 -  com.bb.testparser
 -  com.bb.testresources
 -  com.bb.tests
+
 --resources
 
 
